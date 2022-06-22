@@ -1,2 +1,2 @@
 # JavaScript Coding
-slay the day away
+Everything I did so far during this class
