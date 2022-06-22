@@ -1,2 +1,2 @@
 # JavaScript Coding
-hi
+slay the day away
